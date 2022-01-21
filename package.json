@@ -1,0 +1,22 @@
+{
+  "name": "cl-portfolio-generator",
+  "version": "1.0.0",
+  "description": "A simple command line portfolio page generator.  Created as a mini-project for University of Washington Full-Stack Web Developer Bootcamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielGPhillips/cl-portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielGPhillips/cl-portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/DanielGPhillips/cl-portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
